@@ -1,3 +1,9 @@
+/**
+ * Project: Smart Multi-Compartment Grocery Delivery System
+ * Author: Ahmed Alasiri
+ * Institution: King Khalid University (2026)
+ * Description: IoT-based logistics hub featuring climate control and automated transport.
+ */
 #include "camera_module.h"
 #include "globals.h"
 #include <mbedtls/base64.h>
@@ -161,3 +167,4 @@ void publishImageChunked(const uint8_t* data, size_t len) {
   Serial.println("Chunked publish complete (EOF sent)");
   free(temp);
 }
+
