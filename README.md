@@ -29,6 +29,6 @@ Local Interface: Integrating an I2C 16x2 LCD Display to provide real-time status
 
 Solar Power: Adding a photovoltaic charging circuit for off-grid deployment.
 
-Author
+Author:
 
 Ahmed Alasiri Computer Engineering Graduate (2026) King Khalid University
