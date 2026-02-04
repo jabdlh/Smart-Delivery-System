@@ -26,7 +26,7 @@ Transport: DC Motor & Conveyor Belt.
 
 Thermal: Resistance Heater + Digital Temperature Sensor.
 
-Vision & Load: Serial Camera Module + Load Cell (Weight Sensor) with HX711 Amplifier.
+Vision & Load: ESP32-CAM (OV2640 Module) + Load Cell (Weight Sensor) with HX711 Amplifier.
 
 Security: 12V Solenoid Electromagnetic Lock.
 
