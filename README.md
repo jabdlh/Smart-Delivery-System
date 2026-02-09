@@ -1,6 +1,8 @@
 
 Smart Multi-Compartment Grocery Delivery System 📦
 
+## **image of the prototype**
+
 
 ![Project Overview](prototype_image.png)
 
