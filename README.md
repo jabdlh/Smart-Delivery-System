@@ -1,5 +1,5 @@
 
-***Smart Multi-Compartment Grocery Delivery System ***
+                                  **Smart Multi-Compartment Grocery Delivery System **
 
 ## **image of the prototype**
 
